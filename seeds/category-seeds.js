@@ -8,7 +8,7 @@ const categoryData = [
     category_name: 'Shorts',
   },
   {
-    category_name: 'Music',
+    category_name: 'Skirts',
   },
   {
     category_name: 'Hats',
